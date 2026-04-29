@@ -1,47 +1,33 @@
 # AZ-204 Study Plan
 
-## Week 1: Azure Fundamentals for Developers
+## Daily Routine (2 Hours)
 
-- Review Azure core services
-- Understand resource groups and subscriptions
-- Learn Azure CLI basics
-- Create App Service and Function App
+### Hour 1
+Theory + Documentation
 
-## Week 2: Compute Solutions
+### Hour 2
+Hands-on Practice
 
-- Azure App Service
-- Deployment slots
-- Azure Functions triggers and bindings
-- Serverless development patterns
+---
 
-## Week 3: Storage and Cosmos DB
+## Weekly Strategy
 
-- Blob Storage
-- Queue Storage
-- Table Storage
-- Cosmos DB partitioning and consistency
-- SAS and access policies
+### Week 1
+Azure Compute
 
-## Week 4: Security
+### Week 2
+Storage + Cosmos DB
 
-- Microsoft Identity Platform
-- OAuth and OpenID Connect
-- Managed Identity
-- Azure Key Vault
-- RBAC
+### Week 3
+Security + Identity
 
-## Week 5: Messaging and Integration
+### Week 4
+Monitoring + Messaging + Revision
 
-- Event Grid
-- Event Hub
-- Service Bus
-- API Management
-- Durable Functions
+---
 
-## Week 6: Monitoring and Revision
+## Weekend Tasks
 
-- Azure Monitor
-- Application Insights
-- Logs and metrics
 - Mock tests
-- Interview preparation
+- Revise notes
+- Build mini projects

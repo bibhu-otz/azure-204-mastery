@@ -1,57 +1,55 @@
-# AZ-204 Exam Objectives
+# AZ-204 Exam Objectives (Latest Focus Areas)
 
-## 1. Develop Azure Compute Solutions
+AZ-204 = Developing Solutions for Microsoft Azure
 
-Topics to study:
+## Skills Measured
+
+### 1. Develop Azure Compute Solutions (25–30%)
 
 - Azure App Service
 - Azure Functions
 - Containerized solutions
-- Azure Container Apps basics
-- Deployment slots
-- Scaling and configuration
+- WebJobs
+- Azure Kubernetes Service (AKS)
+- Background tasks
 
-## 2. Develop for Azure Storage
-
-Topics to study:
+### 2. Develop for Azure Storage (15–20%)
 
 - Blob Storage
-- Queue Storage
+- Cosmos DB
 - Table Storage
-- Azure Cosmos DB
-- Storage security
-- SAS tokens
-- Lifecycle management
+- Queue Storage
+- Data lifecycle
+- SDK integration
 
-## 3. Implement Azure Security
+### 3. Implement Azure Security (20–25%)
 
-Topics to study:
-
+- Managed Identity
+- Key Vault
+- OAuth2
 - Microsoft Identity Platform
-- OAuth 2.0 and OpenID Connect
-- Managed identities
-- Azure Key Vault
-- App configuration security
-- Role-based access control
+- RBAC
+- Secure app secrets
 
-## 4. Monitor, Troubleshoot, and Optimize
+### 4. Monitor, Troubleshoot & Optimize (15–20%)
 
-Topics to study:
-
-- Azure Monitor
 - Application Insights
-- Logging and metrics
-- Distributed tracing
-- Performance optimization
-- Caching
+- Azure Monitor
+- Logging
+- Autoscaling
+- Retry patterns
+- Performance tuning
 
-## 5. Connect to and Consume Services
+### 5. Connect Azure Services (15–20%)
 
-Topics to study:
+- Event Grid
+- Event Hub
+- Service Bus
+- Logic Apps
+- API Management
 
-- Azure Event Grid
-- Azure Event Hub
-- Azure Service Bus
-- Azure API Management
-- Durable Functions
-- Third-party APIs
+---
+
+## Passing Score
+
+700 / 1000
