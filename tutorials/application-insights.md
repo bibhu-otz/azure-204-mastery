@@ -1,8 +1,8 @@
-# Key Vault
+# Application Insights
 
 ## Overview
 
-Write your notes about Key Vault here.
+Write your notes about Application Insights here.
 
 ## Key Concepts
 
@@ -21,11 +21,11 @@ Write your notes about Key Vault here.
 
 ## Interview Questions
 
-1. What problem does Key Vault solve?
-2. When would you use Key Vault in a real project?
-3. How do you secure Key Vault?
-4. How do you monitor Key Vault?
-5. What are common mistakes developers make with Key Vault?
+1. What problem does Application Insights solve?
+2. When would you use Application Insights in a real project?
+3. How do you secure Application Insights?
+4. How do you monitor Application Insights?
+5. What are common mistakes developers make with Application Insights?
 
 ## Hands-on Practice
 

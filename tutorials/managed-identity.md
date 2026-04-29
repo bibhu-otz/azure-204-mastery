@@ -1,8 +1,8 @@
-# Key Vault
+# Managed Identity
 
 ## Overview
 
-Write your notes about Key Vault here.
+Write your notes about Managed Identity here.
 
 ## Key Concepts
 
@@ -21,11 +21,11 @@ Write your notes about Key Vault here.
 
 ## Interview Questions
 
-1. What problem does Key Vault solve?
-2. When would you use Key Vault in a real project?
-3. How do you secure Key Vault?
-4. How do you monitor Key Vault?
-5. What are common mistakes developers make with Key Vault?
+1. What problem does Managed Identity solve?
+2. When would you use Managed Identity in a real project?
+3. How do you secure Managed Identity?
+4. How do you monitor Managed Identity?
+5. What are common mistakes developers make with Managed Identity?
 
 ## Hands-on Practice
 
